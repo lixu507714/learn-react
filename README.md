@@ -16,3 +16,6 @@
 - react是使用jsx编写，浏览器无法识别，所以需要一个编译工具，这里使用babel
 - 添加babel配置文件
    - 在根目录下添加文件 .babelrc
+
+
+   https://github.com/liuyangjike/react-elm/blob/master/src/pages/login/login.scss
